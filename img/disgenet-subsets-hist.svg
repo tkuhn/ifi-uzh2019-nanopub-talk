@@ -9,8 +9,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="532.97333pt"
-   height="140.57562pt"
-   viewBox="0 0 532.97333 140.57562"
+   height="127.03261pt"
+   viewBox="0 0 532.97333 127.03261"
    version="1.1"
    id="svg512"
    sodipodi:docname="disgenet-subsets-hist.svg"
@@ -40,12 +40,12 @@
      id="namedview514"
      showgrid="false"
      inkscape:zoom="1.4952362"
-     inkscape:cx="329.98371"
-     inkscape:cy="161.11971"
+     inkscape:cx="208.9326"
+     inkscape:cy="141.72478"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg512" />
+     inkscape:current-layer="surface1" />
   <defs
      id="defs121">
     <g
@@ -447,7 +447,8 @@
      transform="translate(-4.17875,-59.313751)">
     <g
        style="fill:#000000;fill-opacity:1"
-       id="g143">
+       id="g143"
+       transform="translate(-0.501593,-13.543011)">
       <use
          xlink:href="#glyph0-1"
          x="195.42999"
@@ -521,7 +522,8 @@
     </g>
     <g
        style="fill:#000000;fill-opacity:1"
-       id="g207">
+       id="g207"
+       transform="translate(-0.501593,-13.543011)">
       <use
          xlink:href="#glyph0-4"
          x="248.60201"
