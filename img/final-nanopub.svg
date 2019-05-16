@@ -119,9 +119,9 @@
      <g class="Page">
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id3">
-        <rect class="BoundingBox" stroke="none" fill="none" x="75" y="75" width="5902" height="4552"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="85" y="85" width="5882" height="4532"/>
         <path fill="rgb(255,255,255)" stroke="none" d="M 100,629 C 100,364 444,100 788,100 L 5262,100 C 5606,100 5951,364 5951,629 L 5951,4071 C 5951,4336 5606,4601 5262,4601 L 788,4601 C 444,4601 100,4336 100,4071 L 100,629 Z"/>
-        <path fill="none" stroke="rgb(0,0,0)" stroke-width="50" stroke-linejoin="round" d="M 100,629 C 100,364 444,100 788,100 L 5262,100 C 5606,100 5951,364 5951,629 L 5951,4071 C 5951,4336 5606,4601 5262,4601 L 788,4601 C 444,4601 100,4336 100,4071 L 100,629 Z"/>
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="30" stroke-linejoin="round" d="M 100,629 C 100,364 444,100 788,100 L 5262,100 C 5606,100 5951,364 5951,629 L 5951,4071 C 5951,4336 5606,4601 5262,4601 L 788,4601 C 444,4601 100,4336 100,4071 L 100,629 Z"/>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
